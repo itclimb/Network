@@ -42,6 +42,7 @@
 		3F414A961F541EDD006E1619 /* NetworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkUITests.swift; sourceTree = "<group>"; };
 		3F414A981F541EDD006E1619 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F414AA11F54F3E4006E1619 /* NetRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetRequest.swift; sourceTree = "<group>"; };
+		3FF80F5A1F5D06D100321F73 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		A7B4FFA3E115EBC59BEA16B6 /* Pods_NetworkUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NetworkUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7688E34C298120DDE35391E /* Pods-NetworkUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NetworkUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NetworkUITests/Pods-NetworkUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E2AA4097040A60BDFEF2BC03 /* Pods_Network.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Network.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -102,6 +103,7 @@
 		3F414A801F541EDD006E1619 /* Network */ = {
 			isa = PBXGroup;
 			children = (
+				3FF80F5A1F5D06D100321F73 /* MyPlayground.playground */,
 				3F414A811F541EDD006E1619 /* AppDelegate.swift */,
 				3F414A831F541EDD006E1619 /* ViewController.swift */,
 				3F414A851F541EDD006E1619 /* Main.storyboard */,
